@@ -8,3 +8,7 @@
 ## 2. Color Flipper
 
 - Sitio web, con dos paginas, en la que una cambia el color de fondo en funcion a unos colores simples y la otra hace lo propio pero con colores en valor Hexadecimal
+
+## 3. Preguntas Generales.
+
+- Muestra una serie de preguntas con un botón para desplegar la respuesta.
